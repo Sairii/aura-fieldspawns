@@ -1,0 +1,28 @@
+// Aura
+// Script list file
+//
+// All scripts listed here will be loaded.
+//---------------------------------------------------------------------------
+
+regions/tir_beginner.cs
+regions/tir.cs
+regions/sidhe.cs
+regions/dugald.cs
+regions/dunbarton.cs
+regions/gairech.cs
+regions/bangor.cs
+regions/sen_mag.cs
+regions/osna_snail.cs
+regions/emain.cs
+regions/ceo.cs
+regions/morva.cs
+regions/sliab.cs
+regions/taillteann.cs
+regions/alby_arena.cs
+regions/tir_another_world.cs
+regions/scary_library.cs
+regions/rabbie_arena.cs
+regions/port_quilla.cs
+regions/uladh_main_tutorial.cs
+
+include "/user/scripts/scripts_regions.txt"
